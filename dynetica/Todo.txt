@@ -1,4 +1,4 @@
-Todo list (5/7/2005)
+Todo list 
 
 NOTE: to implement a new mathematical function (e.g. Fun(GeneralExpression a)):
 (1) Create a class Fun
