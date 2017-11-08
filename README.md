@@ -1,7 +1,7 @@
 dynetica
 ========
 
-Dynetica Source Code
+Dynetica Source Code 11/08/2017
 
 To run latest build of Dynetica, go to the dist directory.
 Then download and run Dynetica.jar. You need to have the latest version of Java installed on your machine to be able to run Dynetica.
